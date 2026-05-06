@@ -1,14 +1,14 @@
 <!-- Animated header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=4F46E5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+YOUR_NAME+%F0%9F%91%8B;Full-Stack+Developer;Building+things+for+the+web;Open+to+new+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=4F46E5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sarthak+Developer+%F0%9F%91%8B;APIs+that+ship.+Dashboards+that+answer;Open+to+new+opportunities" alt="Typing SVG" />
 </p>
 
 <!-- Visitor badge + social -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=4F46E5" alt="Profile views" />
-  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sarthakdixit&style=for-the-badge&color=4F46E5" alt="Profile views" />
+  <a href="www.linkedin.com/in/dixit-sarthak"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="sarthak_dixit@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://sarthakdixit.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -16,7 +16,7 @@
 ### 👋 About Me
 
 ```yaml
-name: YOUR_NAME
+name: Sarthak Dixit
 role: Full-Stack Developer
 location: City, Country
 focus: [Web apps, APIs, DX tooling]
