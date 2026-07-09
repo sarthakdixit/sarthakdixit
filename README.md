@@ -20,7 +20,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>indian-robbery-rag</h3>
-      <p>Citation-verified RAG for Indian robbery law (BNS + IPC), deployed end-to-end on Azure free tier with hybrid retrieval, two-layer cahcing and a 59-question eval harness.</p>
+      <p>Citation-verified RAG for Indian robbery law (BNS + IPC), deployed end-to-end on Azure free tier with hybrid retrieval, two-layer caching and a 59-question eval harness.</p>
       <p>
         <a href="https://github.com/sarthakdixit/indian-robbery-rag">Repo</a> ·
         <a href="https://mango-coast-00d276f00.7.azurestaticapps.net/">Live Demo</a>
